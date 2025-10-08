@@ -1,0 +1,1172 @@
+[
+    {
+        "image_name": "ISIC_0035934",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9864150881767273
+    },
+    {
+        "image_name": "ISIC_0035511",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.8247561454772949
+    },
+    {
+        "image_name": "ISIC_0035277",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.9728873372077942
+    },
+    {
+        "image_name": "ISIC_0034784",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9998825788497925
+    },
+    {
+        "image_name": "ISIC_0035465",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.9994847774505615
+    },
+    {
+        "image_name": "ISIC_0035854",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9997588992118835
+    },
+    {
+        "image_name": "ISIC_0035868",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999288320541382
+    },
+    {
+        "image_name": "ISIC_0035129",
+        "predicted_class": "DF",
+        "ground_truth": "NV",
+        "class_probability": 0.8904539942741394
+    },
+    {
+        "image_name": "ISIC_0035882",
+        "predicted_class": "BKL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.8904306888580322
+    },
+    {
+        "image_name": "ISIC_0035316",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9923974871635437
+    },
+    {
+        "image_name": "ISIC_0034746",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.7527885437011719
+    },
+    {
+        "image_name": "ISIC_0035458",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.6972379684448242
+    },
+    {
+        "image_name": "ISIC_0035510",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9850149750709534
+    },
+    {
+        "image_name": "ISIC_0035276",
+        "predicted_class": "BCC",
+        "ground_truth": "DF",
+        "class_probability": 0.9753947257995605
+    },
+    {
+        "image_name": "ISIC_0035504",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.6900474429130554
+    },
+    {
+        "image_name": "ISIC_0035538",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.7832756638526917
+    },
+    {
+        "image_name": "ISIC_0035048",
+        "predicted_class": "BKL",
+        "ground_truth": "MEL",
+        "class_probability": 0.9994316697120667
+    },
+    {
+        "image_name": "ISIC_0035909",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.6399502158164978
+    },
+    {
+        "image_name": "ISIC_0035089",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.8547865748405457
+    },
+    {
+        "image_name": "ISIC_0035923",
+        "predicted_class": "VASC",
+        "ground_truth": "MEL",
+        "class_probability": 0.9991316199302673
+    },
+    {
+        "image_name": "ISIC_0034817",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9993019104003906
+    },
+    {
+        "image_name": "ISIC_0034630",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.6417462825775146
+    },
+    {
+        "image_name": "ISIC_0034793",
+        "predicted_class": "DF",
+        "ground_truth": "NV",
+        "class_probability": 0.9994988441467285
+    },
+    {
+        "image_name": "ISIC_0035670",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999672174453735
+    },
+    {
+        "image_name": "ISIC_0034547",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9960923790931702
+    },
+    {
+        "image_name": "ISIC_0034584",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9916927814483643
+    },
+    {
+        "image_name": "ISIC_0035842",
+        "predicted_class": "MEL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.988501787185669
+    },
+    {
+        "image_name": "ISIC_0035705",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.999998927116394
+    },
+    {
+        "image_name": "ISIC_0035715",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9184760451316833
+    },
+    {
+        "image_name": "ISIC_0035067",
+        "predicted_class": "VASC",
+        "ground_truth": "NV",
+        "class_probability": 0.8334177732467651
+    },
+    {
+        "image_name": "ISIC_0035265",
+        "predicted_class": "DF",
+        "ground_truth": "NV",
+        "class_probability": 0.34024015069007874
+    },
+    {
+        "image_name": "ISIC_0034635",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.46029114723205566
+    },
+    {
+        "image_name": "ISIC_0036022",
+        "predicted_class": "BKL",
+        "ground_truth": "BCC",
+        "class_probability": 0.6634427309036255
+    },
+    {
+        "image_name": "ISIC_0035259",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.95348060131073
+    },
+    {
+        "image_name": "ISIC_0036036",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.9599283933639526
+    },
+    {
+        "image_name": "ISIC_0034972",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9988744854927063
+    },
+    {
+        "image_name": "ISIC_0034782",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9073970317840576
+    },
+    {
+        "image_name": "ISIC_0034755",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.5535157322883606
+    },
+    {
+        "image_name": "ISIC_0035852",
+        "predicted_class": "NV",
+        "ground_truth": "VASC",
+        "class_probability": 0.995030403137207
+    },
+    {
+        "image_name": "ISIC_0035853",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.980660617351532
+    },
+    {
+        "image_name": "ISIC_0034797",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.6483895182609558
+    },
+    {
+        "image_name": "ISIC_0034967",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9978066086769104
+    },
+    {
+        "image_name": "ISIC_0035714",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9998781681060791
+    },
+    {
+        "image_name": "ISIC_0035070",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999898672103882
+    },
+    {
+        "image_name": "ISIC_0036021",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.505165159702301
+    },
+    {
+        "image_name": "ISIC_0034597",
+        "predicted_class": "BCC",
+        "ground_truth": "DF",
+        "class_probability": 0.2539612650871277
+    },
+    {
+        "image_name": "ISIC_0035139",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9634078741073608
+    },
+    {
+        "image_name": "ISIC_0034569",
+        "predicted_class": "AKIEC",
+        "ground_truth": "NV",
+        "class_probability": 0.9750356674194336
+    },
+    {
+        "image_name": "ISIC_0034596",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.6104491353034973
+    },
+    {
+        "image_name": "ISIC_0034970",
+        "predicted_class": "BKL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.6891398429870605
+    },
+    {
+        "image_name": "ISIC_0034637",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.4450300335884094
+    },
+    {
+        "image_name": "ISIC_0036034",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9996703863143921
+    },
+    {
+        "image_name": "ISIC_0036008",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9021090865135193
+    },
+    {
+        "image_name": "ISIC_0034804",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.8420658707618713
+    },
+    {
+        "image_name": "ISIC_0035918",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.8703861236572266
+    },
+    {
+        "image_name": "ISIC_0034687",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9425665736198425
+    },
+    {
+        "image_name": "ISIC_0034644",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9968670010566711
+    },
+    {
+        "image_name": "ISIC_0034730",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9988717436790466
+    },
+    {
+        "image_name": "ISIC_0035348",
+        "predicted_class": "MEL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.9981927275657654
+    },
+    {
+        "image_name": "ISIC_0035360",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.9967189431190491
+    },
+    {
+        "image_name": "ISIC_0035823",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9988960027694702
+    },
+    {
+        "image_name": "ISIC_0035610",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9730316400527954
+    },
+    {
+        "image_name": "ISIC_0035163",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9405555725097656
+    },
+    {
+        "image_name": "ISIC_0034725",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.8966087698936462
+    },
+    {
+        "image_name": "ISIC_0034731",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.8866896629333496
+    },
+    {
+        "image_name": "ISIC_0035229",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.578641414642334
+    },
+    {
+        "image_name": "ISIC_0035765",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.5556118488311768
+    },
+    {
+        "image_name": "ISIC_0035942",
+        "predicted_class": "MEL",
+        "ground_truth": "BCC",
+        "class_probability": 0.8301809430122375
+    },
+    {
+        "image_name": "ISIC_0035767",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999806880950928
+    },
+    {
+        "image_name": "ISIC_0036050",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.8204156160354614
+    },
+    {
+        "image_name": "ISIC_0034914",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9999980926513672
+    },
+    {
+        "image_name": "ISIC_0034733",
+        "predicted_class": "MEL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.9882374405860901
+    },
+    {
+        "image_name": "ISIC_0035607",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9770291447639465
+    },
+    {
+        "image_name": "ISIC_0035606",
+        "predicted_class": "BKL",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999016523361206
+    },
+    {
+        "image_name": "ISIC_0036051",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.995381772518158
+    },
+    {
+        "image_name": "ISIC_0035558",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999264478683472
+    },
+    {
+        "image_name": "ISIC_0034685",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9840230941772461
+    },
+    {
+        "image_name": "ISIC_0035766",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999970197677612
+    },
+    {
+        "image_name": "ISIC_0035799",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.7581409811973572
+    },
+    {
+        "image_name": "ISIC_0035992",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.523939847946167
+    },
+    {
+        "image_name": "ISIC_0035038",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9953005313873291
+    },
+    {
+        "image_name": "ISIC_0034642",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.7423368096351624
+    },
+    {
+        "image_name": "ISIC_0034905",
+        "predicted_class": "MEL",
+        "ground_truth": "VASC",
+        "class_probability": 0.8577839136123657
+    },
+    {
+        "image_name": "ISIC_0035366",
+        "predicted_class": "BKL",
+        "ground_truth": "MEL",
+        "class_probability": 0.6324252486228943
+    },
+    {
+        "image_name": "ISIC_0035602",
+        "predicted_class": "BKL",
+        "ground_truth": "MEL",
+        "class_probability": 0.9947068095207214
+    },
+    {
+        "image_name": "ISIC_0035818",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.9999929666519165
+    },
+    {
+        "image_name": "ISIC_0035398",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.8817194104194641
+    },
+    {
+        "image_name": "ISIC_0034904",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.999894380569458
+    },
+    {
+        "image_name": "ISIC_0034657",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.7800507545471191
+    },
+    {
+        "image_name": "ISIC_0035207",
+        "predicted_class": "BKL",
+        "ground_truth": "MEL",
+        "class_probability": 0.7999913096427917
+    },
+    {
+        "image_name": "ISIC_0034858",
+        "predicted_class": "BCC",
+        "ground_truth": "VASC",
+        "class_probability": 0.9837836623191833
+    },
+    {
+        "image_name": "ISIC_0034694",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.8428170680999756
+    },
+    {
+        "image_name": "ISIC_0034870",
+        "predicted_class": "BKL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.936421275138855
+    },
+    {
+        "image_name": "ISIC_0035944",
+        "predicted_class": "MEL",
+        "ground_truth": "DF",
+        "class_probability": 0.7463950514793396
+    },
+    {
+        "image_name": "ISIC_0035952",
+        "predicted_class": "NV",
+        "ground_truth": "VASC",
+        "class_probability": 0.8570756316184998
+    },
+    {
+        "image_name": "ISIC_0036056",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.6173073649406433
+    },
+    {
+        "image_name": "ISIC_0034906",
+        "predicted_class": "BCC",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.9973272085189819
+    },
+    {
+        "image_name": "ISIC_0035403",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.7379446029663086
+    },
+    {
+        "image_name": "ISIC_0035199",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.9952097535133362
+    },
+    {
+        "image_name": "ISIC_0034720",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.9704639911651611
+    },
+    {
+        "image_name": "ISIC_0034898",
+        "predicted_class": "BKL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.5808189511299133
+    },
+    {
+        "image_name": "ISIC_0035953",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9286348819732666
+    },
+    {
+        "image_name": "ISIC_0035989",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.7654786705970764
+    },
+    {
+        "image_name": "ISIC_0035631",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9158293008804321
+    },
+    {
+        "image_name": "ISIC_0035803",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9340819716453552
+    },
+    {
+        "image_name": "ISIC_0035368",
+        "predicted_class": "NV",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.9964105486869812
+    },
+    {
+        "image_name": "ISIC_0035750",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9105291962623596
+    },
+    {
+        "image_name": "ISIC_0035977",
+        "predicted_class": "BKL",
+        "ground_truth": "BCC",
+        "class_probability": 0.506070613861084
+    },
+    {
+        "image_name": "ISIC_0035949",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.8680586218833923
+    },
+    {
+        "image_name": "ISIC_0035008",
+        "predicted_class": "BCC",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.7029258012771606
+    },
+    {
+        "image_name": "ISIC_0035829",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9999998807907104
+    },
+    {
+        "image_name": "ISIC_0035627",
+        "predicted_class": "AKIEC",
+        "ground_truth": "BKL",
+        "class_probability": 0.9026418328285217
+    },
+    {
+        "image_name": "ISIC_0034539",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.7333770394325256
+    },
+    {
+        "image_name": "ISIC_0035196",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9998356103897095
+    },
+    {
+        "image_name": "ISIC_0035814",
+        "predicted_class": "NV",
+        "ground_truth": "VASC",
+        "class_probability": 0.9989849925041199
+    },
+    {
+        "image_name": "ISIC_0036058",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.8706636428833008
+    },
+    {
+        "image_name": "ISIC_0035790",
+        "predicted_class": "NV",
+        "ground_truth": "BCC",
+        "class_probability": 0.9899470210075378
+    },
+    {
+        "image_name": "ISIC_0035794",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999933242797852
+    },
+    {
+        "image_name": "ISIC_0035964",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9968546628952026
+    },
+    {
+        "image_name": "ISIC_0035390",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.9871813654899597
+    },
+    {
+        "image_name": "ISIC_0034918",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9998199343681335
+    },
+    {
+        "image_name": "ISIC_0035636",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9998966455459595
+    },
+    {
+        "image_name": "ISIC_0035622",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.5340579152107239
+    },
+    {
+        "image_name": "ISIC_0035805",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.8536453247070312
+    },
+    {
+        "image_name": "ISIC_0035434",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9998664855957031
+    },
+    {
+        "image_name": "ISIC_0035346",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9959927201271057
+    },
+    {
+        "image_name": "ISIC_0035420",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.7888895273208618
+    },
+    {
+        "image_name": "ISIC_0035232",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.5300628542900085
+    },
+    {
+        "image_name": "ISIC_0035754",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.562490701675415
+    },
+    {
+        "image_name": "ISIC_0035556",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9047690629959106
+    },
+    {
+        "image_name": "ISIC_0034927",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.722233772277832
+    },
+    {
+        "image_name": "ISIC_0034714",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.933046817779541
+    },
+    {
+        "image_name": "ISIC_0035807",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9967280626296997
+    },
+    {
+        "image_name": "ISIC_0035634",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.5416035652160645
+    },
+    {
+        "image_name": "ISIC_0035806",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.9993492960929871
+    },
+    {
+        "image_name": "ISIC_0035423",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.9713289141654968
+    },
+    {
+        "image_name": "ISIC_0034926",
+        "predicted_class": "BCC",
+        "ground_truth": "MEL",
+        "class_probability": 0.7721157073974609
+    },
+    {
+        "image_name": "ISIC_0036062",
+        "predicted_class": "BKL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.992867112159729
+    },
+    {
+        "image_name": "ISIC_0034675",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.7465192675590515
+    },
+    {
+        "image_name": "ISIC_0035769",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9942342638969421
+    },
+    {
+        "image_name": "ISIC_0035741",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.6862877011299133
+    },
+    {
+        "image_name": "ISIC_0035915",
+        "predicted_class": "BKL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.9888912439346313
+    },
+    {
+        "image_name": "ISIC_0035929",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.8152669668197632
+    },
+    {
+        "image_name": "ISIC_0035068",
+        "predicted_class": "VASC",
+        "ground_truth": "NV",
+        "class_probability": 0.9010657072067261
+    },
+    {
+        "image_name": "ISIC_0034612",
+        "predicted_class": "NV",
+        "ground_truth": "BCC",
+        "class_probability": 0.7103044986724854
+    },
+    {
+        "image_name": "ISIC_0034996",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.6676977872848511
+    },
+    {
+        "image_name": "ISIC_0035691",
+        "predicted_class": "NV",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.9915667176246643
+    },
+    {
+        "image_name": "ISIC_0035874",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.9983996748924255
+    },
+    {
+        "image_name": "ISIC_0035243",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9062931537628174
+    },
+    {
+        "image_name": "ISIC_0035525",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.8030588030815125
+    },
+    {
+        "image_name": "ISIC_0035719",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9451966285705566
+    },
+    {
+        "image_name": "ISIC_0035527",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.531095027923584
+    },
+    {
+        "image_name": "ISIC_0035490",
+        "predicted_class": "AKIEC",
+        "ground_truth": "BCC",
+        "class_probability": 0.9826532602310181
+    },
+    {
+        "image_name": "ISIC_0035321",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.9993135929107666
+    },
+    {
+        "image_name": "ISIC_0034995",
+        "predicted_class": "MEL",
+        "ground_truth": "BCC",
+        "class_probability": 0.4064987897872925
+    },
+    {
+        "image_name": "ISIC_0035686",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9539787769317627
+    },
+    {
+        "image_name": "ISIC_0034573",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999897480010986
+    },
+    {
+        "image_name": "ISIC_0035645",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.9978894591331482
+    },
+    {
+        "image_name": "ISIC_0035136",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9879639148712158
+    },
+    {
+        "image_name": "ISIC_0035650",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.9990441203117371
+    },
+    {
+        "image_name": "ISIC_0034599",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.533227264881134
+    },
+    {
+        "image_name": "ISIC_0035863",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.9971610307693481
+    },
+    {
+        "image_name": "ISIC_0035917",
+        "predicted_class": "MEL",
+        "ground_truth": "BKL",
+        "class_probability": 0.9694018959999084
+    },
+    {
+        "image_name": "ISIC_0036003",
+        "predicted_class": "BCC",
+        "ground_truth": "BKL",
+        "class_probability": 0.58723384141922
+    },
+    {
+        "image_name": "ISIC_0034614",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.8645443320274353
+    },
+    {
+        "image_name": "ISIC_0035640",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9965370893478394
+    },
+    {
+        "image_name": "ISIC_0035132",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9615187644958496
+    },
+    {
+        "image_name": "ISIC_0035668",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9446102976799011
+    },
+    {
+        "image_name": "ISIC_0035669",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.999995231628418
+    },
+    {
+        "image_name": "ISIC_0035655",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9998255372047424
+    },
+    {
+        "image_name": "ISIC_0035127",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.5904598236083984
+    },
+    {
+        "image_name": "ISIC_0035682",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9999982118606567
+    },
+    {
+        "image_name": "ISIC_0035457",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.876491129398346
+    },
+    {
+        "image_name": "ISIC_0035443",
+        "predicted_class": "BCC",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.8933150768280029
+    },
+    {
+        "image_name": "ISIC_0035245",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.9261736869812012
+    },
+    {
+        "image_name": "ISIC_0035721",
+        "predicted_class": "VASC",
+        "ground_truth": "MEL",
+        "class_probability": 0.9785959720611572
+    },
+    {
+        "image_name": "ISIC_0035904",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.6674321293830872
+    },
+    {
+        "image_name": "ISIC_0035910",
+        "predicted_class": "BCC",
+        "ground_truth": "VASC",
+        "class_probability": 0.7957143187522888
+    },
+    {
+        "image_name": "ISIC_0035079",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.9995940327644348
+    },
+    {
+        "image_name": "ISIC_0035290",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.9967901110649109
+    },
+    {
+        "image_name": "ISIC_0035509",
+        "predicted_class": "BKL",
+        "ground_truth": "NV",
+        "class_probability": 0.6438588500022888
+    },
+    {
+        "image_name": "ISIC_0034944",
+        "predicted_class": "BCC",
+        "ground_truth": "NV",
+        "class_probability": 0.7759944200515747
+    },
+    {
+        "image_name": "ISIC_0035680",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9958928823471069
+    },
+    {
+        "image_name": "ISIC_0035643",
+        "predicted_class": "BKL",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.9648944735527039
+    },
+    {
+        "image_name": "ISIC_0034575",
+        "predicted_class": "NV",
+        "ground_truth": "BKL",
+        "class_probability": 0.9996708631515503
+    },
+    {
+        "image_name": "ISIC_0035124",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.9742736220359802
+    },
+    {
+        "image_name": "ISIC_0035656",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.8566741347312927
+    },
+    {
+        "image_name": "ISIC_0034548",
+        "predicted_class": "AKIEC",
+        "ground_truth": "MEL",
+        "class_probability": 0.6038204431533813
+    },
+    {
+        "image_name": "ISIC_0035695",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.9999839067459106
+    },
+    {
+        "image_name": "ISIC_0035440",
+        "predicted_class": "NV",
+        "ground_truth": "DF",
+        "class_probability": 0.9645344018936157
+    },
+    {
+        "image_name": "ISIC_0034951",
+        "predicted_class": "DF",
+        "ground_truth": "VASC",
+        "class_probability": 0.998216450214386
+    },
+    {
+        "image_name": "ISIC_0036029",
+        "predicted_class": "NV",
+        "ground_truth": "MEL",
+        "class_probability": 0.5358067154884338
+    },
+    {
+        "image_name": "ISIC_0035291",
+        "predicted_class": "AKIEC",
+        "ground_truth": "BCC",
+        "class_probability": 0.9999996423721313
+    },
+    {
+        "image_name": "ISIC_0035078",
+        "predicted_class": "BCC",
+        "ground_truth": "AKIEC",
+        "class_probability": 0.7344604134559631
+    },
+    {
+        "image_name": "ISIC_0035050",
+        "predicted_class": "MEL",
+        "ground_truth": "NV",
+        "class_probability": 0.9780616760253906
+    }
+]

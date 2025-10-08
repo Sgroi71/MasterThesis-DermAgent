@@ -1,0 +1,15 @@
+# Configuration file for an experiment
+swin_pretrained: True
+in_image_size: 224
+batch_size: 12
+num_epochs: 100
+lr: 0.00005
+iterations: 1 # num training iterations to compute avg and std metric values
+experiment_tag: "HAM+Derm7pt-all+BCN+HAM-bin+DermNet+Fitzpatrick"
+save_dir: "./checkpoints/"
+device: "cuda:3" # "cuda" or "cpu"
+
+datasets:
+  trainings:
+  validations:
+  tests:

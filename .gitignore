@@ -1,0 +1,30 @@
+# Ignora la directory .git
+.git/
+.ipynb_checkpoints/
+
+# Ignora la directory __pycache__
+__pycache__/
+
+# Ignora i file compilati Python
+*.pyc
+
+ISIC2018_Task3_Test_Input/
+
+*.DS_Store
+# Ignora i file di log
+*.log
+
+experiments/medDerm_logs/
+
+logs/
+logs_Explainability_HAM/
+*.checkpoint
+.gradio/
+ISIC_ImageNet/
+temp/
+*.png
+*.jpg
+Metadata*
+
+ham10k_train_dataset.csv
+ham10k_val_dataset.csv
